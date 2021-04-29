@@ -11,3 +11,5 @@ This scraper downloads the entire website and puts it into a database, with the 
 3. Max Grade Chart.ipynb -- analyze how hard a person climbs over time
 4. Style Analysis Chart.ipynb -- tools to scrape each route description to classify the route character (slab, face, overhang, crack, etc)
 5. Final.ipynb -- some projproj specific utilities to make the site run more smoothly
+
+Check out the alpha site at pcheng3.pythonanywhere.com
