@@ -12,4 +12,4 @@ This scraper downloads the entire website and puts it into a database, with the 
 4. Style Analysis Chart.ipynb -- tools to scrape each route description to classify the route character (slab, face, overhang, crack, etc)
 5. Final.ipynb -- some projproj specific utilities to make the site run more smoothly
 
-Check out the alpha site at pcheng3.pythonanywhere.com
+Check out the alpha projproj site at <a href="https://pcheng3.pythonanywhere.com">pcheng3.pythonanywhere.com</a>
